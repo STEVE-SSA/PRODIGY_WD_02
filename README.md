@@ -25,8 +25,8 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
 4. **Record a Lap**: Click the "Lap" button to record the current time as a lap. This button is enabled only when the timer is running.
 
 ## Preview
-
-C:\STEVE\Screenshot 2024-07-07 234545.png
+ 
+![Screenshot 2024-07-07 234545](https://github.com/STEVE-SSA/PRODIGY_WD_02/assets/172099973/0a8f0316-4bf3-457f-8f50-9494400cd134)
 
 ## Getting Started
 
